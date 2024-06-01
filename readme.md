@@ -13,7 +13,7 @@ This Terraform project is designed to set up Azure infrastructure, including vir
 ## out put
 ![sample output](/Screenshots/example.png)
 
-![sample output](/ex2/example.png)
+![sample output](/Screenshots/ex2.png)
 
 ## Setting Up Infrastructure
 
